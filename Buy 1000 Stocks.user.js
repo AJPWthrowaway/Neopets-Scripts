@@ -6,4 +6,4 @@
 // @match        *://*.neopets.com/stockmarket.phtml?type=buy*
 // ==/UserScript==
 
-$("[name='amount_shares']:first").val(1000); // deposit all
+$("[name='amount_shares']:first").val(1000); // buy 1000 shares
